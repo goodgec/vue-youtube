@@ -17,7 +17,7 @@
       return {
         rootUrl: 'https://www.googleapis.com/youtube/v3/search',
         searchText: '',
-        key: 'AIzaSyCy9xazg0-n4M6D1V0yJoQsedSPF-7hdXs',
+        key: 'YOUR_KEY_HERE',
         results: []
       }
     },
